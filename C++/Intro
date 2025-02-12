@@ -1,0 +1,10 @@
+STL - Standard Template Library 
+-> don't need to predefine or write long long codes for an algorithm or for container
+
+
+Libraries :
+    -> #include <math.h>     // To include all libraries of math algorithms
+    -> #include <string.h>   // To include all libraries of strings 
+
+
+#include <bits/stdc++.h>   // Instead of writing every library, by writing this all the libraries will automatically included
