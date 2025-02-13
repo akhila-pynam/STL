@@ -7,12 +7,17 @@
 //    -> #include <string.h>   -> To include all libraries of strings 
 
 
-// #include <bits/stdc++.h>   -> Instead of writing every library, by writing this all the libraries will automatically included.
-#include <bits/stdc++.h>
-using namespace std;
-int main(){
-    int a = 0; 
-    int b = 9;
-    int sum = a+b;
-    cout << sum;
-}
+// #include <bits/stdc++.h>   -> Instead of writing every library, by writing "stdc++.h" all the libraries will automatically included.
+
+// using namespace std        ->  we don't need to write " std:: " everytime  
+
+
+    // SKELETON OF CODE 
+
+    #include <bits/stdc++.h>
+    using namespace std;
+    int main(){
+        
+    //    write your code 
+       
+    }
