@@ -21,3 +21,11 @@
     //    write your code 
        
     }
+
+// if And while Loops Difference :
+    // 1. if Loop    -> Executes a Block Of code Once If a Specified Condition Is True
+    // 2. while Loop -> Executes The Block Multiple Times As Long As The Condition Is True
+
+// if And else Loops :
+    //  If , If Loop Is Not Correct It Checks Else Loop.
+    // To Write More Conditions if-else Loop Is Used. 
