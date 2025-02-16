@@ -79,11 +79,13 @@ void explainVectors(){
 
 }
 int main(){
-  #ifndef ONLINE_JUDGE
-  freopen("input.txt", "r", stdin);
-  freopen("output.txt", "w", stdout);
-  #endif
+   // Preprocessor Directive
 
-  explainVectors();
-  return 0;
+        #ifndef ONLINE_JUDGE
+        freopen("input.txt", "r", stdin);
+        freopen("output.txt", "w", stdout);
+        #endif
+
+        explainVectors();
+        return 0;
 }
