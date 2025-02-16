@@ -6,5 +6,6 @@ void functioncall(){       // Void Funtion Returns Nothing
 }
 int main(){
     functioncall();
+    return 0;
 }
 

@@ -73,4 +73,5 @@ int main(){
 	#endif
 
 	explainList();
+    return 0;
 }

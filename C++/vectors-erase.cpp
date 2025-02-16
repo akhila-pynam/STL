@@ -60,6 +60,5 @@ int main() {
     #endif
 
     explainVectors();
-
     return 0;
 }

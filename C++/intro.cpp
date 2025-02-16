@@ -31,5 +31,7 @@
     //  If , If Loop Is Not Correct It Checks Else Loop.
     // To Write More Conditions if-else Loop Is Used. 
 
-    
+
 // The difference between a Vector and a List is that there is no front operation in a vector, but a list has one. The remaining operations are the same.
+// In List we can push-front and also emplace_front
+// In List we cannot use arthermatic operations 
