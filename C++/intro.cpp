@@ -32,6 +32,16 @@
     // To Write More Conditions if-else Loop Is Used. 
 
 
+// LIST : 
+
 // The difference between a Vector and a List is that there is no front operation in a vector, but a list has one. The remaining operations are the same.
 // In List we can push-front and also emplace_front
 // In List we cannot use arthermatic operations 
+
+
+// STACK
+
+// LIFO - LAST IN FIRST OUT is known as STACK
+// The most generic three functions in stack is - push , pop , top
+// We can't Use The " for Loop " In Stack Container and Also push_back, emplace_back.
+
