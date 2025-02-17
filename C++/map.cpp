@@ -85,4 +85,5 @@ int main(){
 	#endif
 
 	explainMap();
+	return 0;
 }

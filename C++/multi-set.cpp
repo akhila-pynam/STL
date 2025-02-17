@@ -59,4 +59,5 @@ int main(){
 	#endif
 
 	explainMultiset();
+    return 0;
 }

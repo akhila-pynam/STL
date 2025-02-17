@@ -72,4 +72,5 @@ int main() {
     #endif
 
     explainQueue();
+    return 0;
 }

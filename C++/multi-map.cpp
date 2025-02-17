@@ -51,4 +51,5 @@ int main() {
     #endif
 
     explainMultimap();
+    return 0;
 }
