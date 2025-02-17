@@ -69,6 +69,29 @@
 //MAP
 
 // Store - Unique Key , Same Value 
-// Store in a Sorted Order (default)
+// Stores in a Sorted Order (default)
+
+
+// MULTI-MAP
+
+// Store - Same Key , Same Value
+// Stores in Sorted Order
+
+
+// UNORDERED-MAP
+
+// Store - Unique Key , Same Value 
+// Not Sorted In a Order 
+
+
+// BUILT-IN-POP-COUNT
+
+// It gives the count of the number of set bits (1s) in a binary representation of a number.
+
+
+// Permutation
+
+// 
+
 
 
