@@ -83,6 +83,7 @@ void explainList(){
 }
 
 int main(){
+    // Preprocessor Directive
 
     #ifndef ONLINE_JUDGE
 	freopen("input.txt", "r", stdin);
@@ -90,4 +91,5 @@ int main(){
 	#endif
 
 	explainList();
+    return 0;
 }

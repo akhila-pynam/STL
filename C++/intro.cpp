@@ -2,7 +2,7 @@
 // -> don't need to predefine or write long long codes for an algorithm or for container
 
 
-// Libraries :
+// LIBRARIES :
 //    -> #include <math.h>     -> To include all libraries of math algorithms
 //    -> #include <string.h>   -> To include all libraries of strings 
 
@@ -44,4 +44,31 @@
 // LIFO - LAST IN FIRST OUT is known as STACK
 // The most generic three functions in stack is - push , pop , top
 // We can't Use The " for Loop " In Stack Container and Also push_back, emplace_back.
+
+
+// SET 
+
+// Stores the elements in sorted order - Low to High
+// It does not store the repeated elements only once
+// Push operation is not used , instead of that insert operation is used
+
+
+// MULTI-SET
+
+// Stores the elements in sorted order
+// Stores the repeated elements also
+// Push operation is not used , instead of that insert operation is used
+
+
+// UNORDERED-SET
+
+// Stores the elements in unsorted order(randomized order)
+// does not stores the repeated elements 
+
+
+//MAP
+
+// Store - Unique Key , Same Value 
+// Store in a Sorted Order (default)
+
 
